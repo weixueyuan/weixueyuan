@@ -1,16 +1,42 @@
-## Hi there 👋
+# 魏学源 (Wei Xueyuan) 👋
 
-<!--
-**weixueyuan/weixueyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **具身智能研究** @ 上海人工智能实验室 (Shanghai AI Laboratory)
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 **研究领域**: 具身智能、太阳能电池
+- 🏃 **兴趣爱好**: 羽毛球、徒步、冒险活动
+- 🧠 **性格类型**: ENTP (天生的探索者)
+- 💡 **人生理念**: 为开源社区贡献微薄之力
+
+## 职业历程
+
+### 学术研究阶段
+-  **北京科技大学**: 专注于低密度高强钢研究，发表中文核心一篇
+-  **北京理工大学**: 专注于钙钛矿的稳定性研究，发表SCI文章9篇，包括**Science**、**Angew**、**Chemical Society Reviews** 等
+
+### 工业界探索
+- **华为海思**: 半导体芯片设计 (2022-2024)
+- **华为终端**: GUI Agent 开发 (2024-2025)
+- **上海AI Lab**: 具身智能研究 (2025-至今)
+
+## 技术栈
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+## GitHub 统计
+
+![weixueyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=weixueyuan&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 联系我
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-FF6B35?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6U8gXlYAAAAJ&hl=zh-CN&oi=ao)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github&logoColor=white)](https://github.com/weixueyuan)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-00B4A6?logo=huggingface&logoColor=FFD43B)](https://huggingface.co/yuanxuewei)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/InternRobotics)
+[![小红书](https://img.shields.io/badge/小红书-FF2442?logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/67e24dd1000000000e011c5f)
+
