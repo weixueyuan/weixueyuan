@@ -31,7 +31,6 @@
 ## 📊 GitHub 统计
 <!-- 请确认 username 为你真实的 GitHub 用户名，否则图片不显示 -->
 ![weixueyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=weixueyuan&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weixueyuan&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=weixueyuan&theme=tokyonight&hide_border=true)
 
 ## 📫 联系我
